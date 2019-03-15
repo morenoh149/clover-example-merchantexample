@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rAR/values-es-rAR.xml",
+            "map": [
+                {
+                    "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/values-es-rAR/values-es-rAR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,179,275,347,485,543,666",
+                        "endColumns": "123,95,71,137,57,122,76",
+                        "endOffsets": "174,270,342,480,538,661,738"
+                    }
+                }
+            ]
+        }
+    ]
+}

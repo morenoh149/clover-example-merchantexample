@@ -1,0 +1,210 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/debug/values-sw600dp-v13_values-sw600dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,112,172,236,307,374,440,510,577,643,729,795",
+                        "endColumns": "56,59,63,70,66,65,69,66,65,85,65,131",
+                        "endOffsets": "107,167,231,302,369,435,505,572,638,724,790,922"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/debug/values-es-rAR-port_values-es-rAR-port.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/values-es-rAR-port/values-es-rAR-port.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,151",
+                        "endColumns": "95,137",
+                        "endOffsets": "146,284"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/debug/values-es-rAR_values-es-rAR.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/values-es-rAR/values-es-rAR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,179,275,347,485,543,666",
+                        "endColumns": "123,95,71,137,57,122,76",
+                        "endOffsets": "174,270,342,480,538,661,738"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/harrymoreno/programming/clover/merchantexample/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "2,2",
+                        "startOffsets": "54,105",
+                        "endColumns": "50,64",
+                        "endOffsets": "102,167"
+                    },
+                    "to": {
+                        "startLines": "12,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "698,846",
+                        "endColumns": "52,66",
+                        "endOffsets": "746,908"
+                    }
+                },
+                {
+                    "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,26,35,46,56,61",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,121,179,240,304,364,430,496,565,632,698,793,882,979,1065,1137,1271,1331,1436,1511,1761,2192,2868,3398,3636",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,25,34,45,55,60,65",
+                        "endColumns": "65,57,60,63,59,65,65,68,66,65,94,88,96,85,71,133,59,104,74,10,10,10,10,10,10",
+                        "endOffsets": "116,174,235,299,359,425,491,560,627,693,788,877,974,1060,1132,1266,1326,1431,1506,1756,2187,2863,3393,3631,3869"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,13,15,16,17,18,19,20,21,22,23,28,37,48,58,63",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,121,179,240,304,364,430,496,565,632,751,913,1002,1099,1185,1257,1391,1451,1556,1631,1881,2312,2988,3518,3756",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,13,15,16,17,18,19,20,21,22,27,36,47,57,62,67",
+                        "endColumns": "65,57,60,63,59,65,65,68,66,65,94,88,96,85,71,133,59,104,74,10,10,10,10,10,10",
+                        "endOffsets": "116,174,235,299,359,425,491,560,627,693,841,997,1094,1180,1252,1386,1446,1551,1626,1876,2307,2983,3513,3751,3989"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/debug/values-pl-rPL_values-pl-rPL.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/values-pl-rPL/values-pl-rPL.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/debug/values-de-rDE_values-de-rDE.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/values-de-rDE/values-de-rDE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,147,246,318,466,524,643",
+                        "endColumns": "91,98,71,147,57,118,72",
+                        "endOffsets": "142,241,313,461,519,638,711"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/debug/values-de-rDE-sw600dp-v13_values-de-rDE-sw600dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/values-de-rDE-sw600dp-v13/values-de-rDE-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,154,220",
+                        "endColumns": "98,65,146",
+                        "endOffsets": "149,215,362"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/debug/values-port_values-port.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,121,187,257,324,390,478",
+                        "endColumns": "65,65,69,66,65,87,135",
+                        "endOffsets": "116,182,252,319,385,473,609"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/debug/values-de-rDE-port_values-de-rDE-port.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/values-de-rDE-port/values-de-rDE-port.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,155",
+                        "endColumns": "99,148",
+                        "endOffsets": "150,299"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,249,321,451,510,611",
+                        "endColumns": "106,86,71,129,58,100,73",
+                        "endOffsets": "157,244,316,446,505,606,680"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/debug/values-fr-rCA-port_values-fr-rCA-port.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/values-fr-rCA-port/values-fr-rCA-port.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,144",
+                        "endColumns": "88,131",
+                        "endOffsets": "139,271"
+                    }
+                }
+            ]
+        }
+    ]
+}

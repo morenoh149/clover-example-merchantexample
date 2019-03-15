@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.clover.sdk:clover-android-sdk:210.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/jars/libs/calc-259.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.clover.sdk/clover-android-sdk/210.1/1bc13a54a1afacac05320d14e8b3231dde6db937/clover-android-sdk-210.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

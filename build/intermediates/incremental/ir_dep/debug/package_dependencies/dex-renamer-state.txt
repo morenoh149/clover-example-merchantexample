@@ -1,0 +1,4 @@
+#Fri Mar 15 15:46:47 EDT 2019
+base.0=/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

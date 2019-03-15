@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/drawable-xhdpi-v4_return_to_merchant.png.flat",
+        "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/drawable-xhdpi-v4/return_to_merchant.png"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/drawable-hdpi-v4_rotate_merchant_to_customer.png.flat",
+        "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/drawable-hdpi-v4/rotate_merchant_to_customer.png"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/drawable-xxhdpi-v4_return_to_merchant.png.flat",
+        "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/drawable-xxhdpi-v4/return_to_merchant.png"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/drawable-mdpi-v4_rotate_merchant_to_customer.png.flat",
+        "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/drawable-mdpi-v4/rotate_merchant_to_customer.png"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/drawable-port-xhdpi-v4_return_to_merchant.png.flat",
+        "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/drawable-port-xhdpi-v4/return_to_merchant.png"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/drawable-mdpi-v4_rotate_customer_to_merchant.png.flat",
+        "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/drawable-mdpi-v4/rotate_customer_to_merchant.png"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/drawable-mdpi-v4_return_to_merchant.png.flat",
+        "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/drawable-mdpi-v4/return_to_merchant.png"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/harrymoreno/programming/clover/merchantexample/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/drawable-hdpi-v4_rotate_customer_to_merchant.png.flat",
+        "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/drawable-hdpi-v4/rotate_customer_to_merchant.png"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/layout_rotate_to_merchant_dialog_fragment.xml.flat",
+        "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/layout/rotate_to_merchant_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/harrymoreno/programming/clover/merchantexample/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/harrymoreno/programming/clover/merchantexample/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/harrymoreno/programming/clover/merchantexample/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/layout_rotate_to_customer_dialog_fragment.xml.flat",
+        "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/layout/rotate_to_customer_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/layout_return_to_merchant_dialog_fragment.xml.flat",
+        "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/layout/return_to_merchant_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/drawable-hdpi-v4_return_to_merchant.png.flat",
+        "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/drawable-hdpi-v4/return_to_merchant.png"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/drawable_return_to_merchant.png.flat",
+        "source": "/Users/harrymoreno/.gradle/caches/transforms-1/files-1.1/clover-android-sdk-210.1.aar/044bd88b73e41d74a612d208648f8063/res/drawable/return_to_merchant.png"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/clover/merchantexample/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/Users/harrymoreno/programming/clover/merchantexample/src/main/res/layout/activity_main.xml"
+    }
+]
